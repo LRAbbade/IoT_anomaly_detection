@@ -1,2 +1,3 @@
-# GAN_anomaly_detection
+# GAN anomaly detection
+
 Using GANs for time series anomaly detection
