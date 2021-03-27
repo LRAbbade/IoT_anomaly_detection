@@ -3,7 +3,7 @@
 *.csv
 *.icloud
 *.parquet
-connect_vm.sh
+connect_*.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
