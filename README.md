@@ -1,6 +1,6 @@
-# GAN anomaly detection
+# IoT anomaly detection
 
-Using GANs for time series anomaly detection
+Using XG Boost for time series anomaly detection
 
 Dataset by:
 
